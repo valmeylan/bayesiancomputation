@@ -1,4 +1,4 @@
-# bayesiancomputation
+# Bayesian computation
 
 
 
