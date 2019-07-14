@@ -4,7 +4,6 @@
 
 MATH-435 Bayesian computation, lectured by Prof. Dehaene, is an EPFL graduate course.
 
-Summary
 This course aims at giving a broad overview of Bayesian inference, highlighting how the basic Bayesian paradigm proceeds, 
 and the various methods that can be used to deal with the computational issues that plague it.
 
