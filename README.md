@@ -13,6 +13,8 @@ It was asked to implement three methods presented in class, on a dataset of our 
 We had to apply these methods on three qualitatively different models.
 
 
+### Bayesian inference on GARCH(1,1)
+
 I performed a Bayesian inference on GARCH(1,1) models as my programming project.
 
 • Python implementation of the MCMC Metropolis-Hastings algorithm for GARCH(1,1) models with (i) normal innovations ; (ii) student-t innovations.
