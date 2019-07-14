@@ -19,6 +19,6 @@ I performed a Bayesian inference on GARCH(1,1) models as my programming project.
 
 • Python implementation of the MCMC Metropolis-Hastings algorithm for GARCH(1,1) models with (i) normal innovations ; (ii) student-t innovations.
 
-• Interweaved (a) the Rejection Sampling and (b) the Importance Sampling algorithms for (iii) student-t data-augmented GARCH(1,1) model.
+• Interweaved (a) the Rejection Sampling and (b) the Importance Sampling algorithms for (iii) student-t data-augmented GARCH(1,1) model, see (D. Ardia, L. Hoogerheide, 2009).
 
 • Algorithm tuning and cost highlights.
