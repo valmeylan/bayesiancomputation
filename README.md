@@ -2,7 +2,7 @@
 
 
 
-MATH-435 Bayesian computation, lectured by Prof. Dehaene, is an EPFL graduate course.
+MATH-435 Bayesian computation is an EPFL graduate course, lectured by Prof. Dehaene.
 
 This course aims at giving a broad overview of Bayesian inference, highlighting how the basic Bayesian paradigm proceeds, 
 and the various methods that can be used to deal with the computational issues that plague it.
@@ -22,3 +22,7 @@ I performed a Bayesian inference on GARCH(1,1) models as my programming project.
 • Interweaved (a) the Rejection Sampling and (b) the Importance Sampling algorithms for (iii) student-t data-augmented GARCH(1,1) model, see (D. Ardia, L. Hoogerheide, 2009).
 
 • Algorithm tuning and cost highlights.
+
+
+
+Note: in the event where the Jupyter Notebooks are not rendering within GitHub, paste their link in https://nbviewer.jupyter.org/ to visualize them.
